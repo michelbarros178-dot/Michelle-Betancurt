@@ -6,6 +6,14 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 
 ---
 
+## 👩‍💻 Sobre Mí
+
+*   🎓 **Educación:** Estudiante de Tecnología en Análisis y Desarrollo de Software junto con una Técnica en Programación de Software.
+*   🎯 **Objetivo:** Enfocada en dominar las mejores prácticas de ingeniería de software, arquitectura limpia y la integración de soluciones inteligentes en aplicaciones web.
+*   🧠 **Intereses:** Además del código, me apasiona la optimización de procesos de bases de datos, el diseño de interfaces modernas y explorar el desarrollo impulsado por datos.
+
+---
+
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes y Frameworks
@@ -40,6 +48,24 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValenBV1013&theme=radical" alt="Racha de Commits" />
 </p>
+
+---
+
+### 🏆 Logros en GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ValenBV1013&theme=radical&no-bg=true&margin-w=15" alt="Mis Trofeos de GitHub" />
+</p>
+
+---
+
+## 📋 Gestión de Proyectos y Calidad de Software
+
+Para asegurar el éxito y la escalabilidad de las aplicaciones que desarrollo, aplico metodologías ágiles y estándares de la industria:
+
+*   **Metodologías:** Gestión de flujos de trabajo con tableros Kanban y control de versiones colaborativo en GitHub.
+*   **Métricas y Estimación:** Modelado de costos y esfuerzo utilizando metodologías como el modelo **COCOMO**.
+*   **Estándares de Calidad:** Aseguramiento de la calidad del producto y del proceso bajo lineamientos internacionales (normas **ISO/IEC 9126** e **ISO 9000**).
 
 ---
 
