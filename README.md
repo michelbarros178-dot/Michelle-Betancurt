@@ -51,12 +51,10 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 
 ---
 
-### 🏆 Logros y Especialidades
+### 🏆 Logros en GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Main_Developer-Formación_Activa-ff69b4?style=for-the-badge&logo=github" alt="Developer" />
-  <img src="https://img.shields.io/badge/Git_Master-Commits_Diarios-20232a?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Code_Status-Analizando-🔥?style=for-the-badge" alt="Status" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Michelle-Betancourt&theme=radical&no-bg=true&margin-w=15" alt="Mis Trofeos de GitHub" />
 </p>
 
 ---
