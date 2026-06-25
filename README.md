@@ -54,7 +54,7 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 ### 🏆 Logros en GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ValenBV1013&theme=radical&no-bg=true&margin-w=15" alt="Mis Trofeos de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Michelle-Betancourt&theme=radical&no-bg=true&margin-w=15" alt="Mis Trofeos de GitHub" />
 </p>
 
 ---
