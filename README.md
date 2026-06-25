@@ -31,9 +31,8 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 
 ## 📊 Estadísticas de GitHub
 
----
-
 <p align="center">
+  <!-- Agregamos &count_private=true para que sume los commits de tus repositorios privados -->
   <img src="https://github-readme-stats.vercel.app/api?username=ValenBV1013&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenBV1013&layout=compact&theme=radical" alt="Lenguajes más usados" height="190" />
 </p>
