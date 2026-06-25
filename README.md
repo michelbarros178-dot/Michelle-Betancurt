@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Michelle] 👋
+# ¡Hola! Soy Michelle 👋
 
 ### 🚀 Desarrolladar Full Stack en Formación | Apasionada por la Tecnología y el Código Limpio
 
