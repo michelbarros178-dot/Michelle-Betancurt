@@ -51,7 +51,7 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 
 ---
 
-### 🏆 Logros
+### 🏆 Logros y Especialidades
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main_Developer-Formación_Activa-ff69b4?style=for-the-badge&logo=github" alt="Developer" />
