@@ -45,14 +45,12 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 ## 📂 Proyectos Destacados
 
 
-🌐 OMV (Observatorio de Movilidad Vial)**: Plataforma inteligente orientada al análisis y monitoreo de la movilidad urbana. Integra herramientas avanzadas para la visualización de datos de tráfico y flujos viales, facilitando la toma de decisiones informadas para mejorar el tránsito ciudadano.
+🌐 OMV (Observatorio de Movilidad Vial): Plataforma inteligente orientada al análisis y monitoreo de la movilidad urbana. Integra herramientas avanzadas para la visualización de datos de tráfico y flujos viales, facilitando la toma de decisiones informadas para mejorar el tránsito ciudadano.
 Tecnologías:* JavaScript, Python (Django), HTML5, CSS3, PostgreSQL/MySQL.
 
 🐾 Kuky Pets: Sistema web integral diseñado para la gestión y administración de un spa canino. Permite el control de citas, registro de clientes, historial de servicios de las mascotas y optimización de los tiempos de atención de forma interactiva.
 Tecnologías:* JavaScript (React), PHP (Laravel), CSS/Tailwind, MySQL.
 
-🐱 Moffe: Aplicación web de gestión administrativa orientada a un cat café y centro de adopción felina. Cuenta con módulos para el registro y seguimiento de los gatos, control de procesos de adopción y administración interna del establecimiento.
-ecnologías:* PHP (Laravel), JavaScript, Bootstrap/CSS, MySQL.
 ---
 
 ## 📬 Conéctate conmigo
