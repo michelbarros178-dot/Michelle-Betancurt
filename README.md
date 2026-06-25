@@ -31,13 +31,15 @@ Soy una desarrolladar enfocada en la creación de aplicaciones web robustas, efi
 
 ## 📊 Estadísticas de GitHub
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Lenguajes más usados" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ValenBV1013&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValenBV1013&layout=compact&theme=radical" alt="Lenguajes más usados" height="190" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="Racha de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ValenBV1013&theme=radical" alt="Racha de Commits" />
 </p>
 
 ---
